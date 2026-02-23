@@ -81,12 +81,14 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 <br><br/>
 * **Gamified Schema Activation:** For the live VILT/ILT sessions, I architected a Jeopardy-style gamification board to break down social friction for group work and reinforce baseline knowledge from the prerequisite e-learning.
 <br><br/>
-![Jeopardy Gamification Board](./assets/your-jeopardy-screenshot.png)
+![Jeopardy Gamification Board 1](../Case%20Study%20Assets/02-EBP-Jeopardy-01.png)
+![Jeopardy Gamification Board 2](../Case%20Study%20Assets/03-EBP-Jeopardy-02.png)
+![Jeopardy Gamification Board 3](../Case%20Study%20Assets/04-EBP-Jeopardy-03.png)
 <br><br/>
 ### 2. WHAT (Data Transfer & Throttling Intrinsic Load)
 * **Content Virtualization:** I procured raw data from the Department of Labor (DOL), internal firm resources, SMEs, and leveraging AI (Copilot) to accelerate the outlining of discrete concept/data chunks, which were then technically validated by the SMEs.
 <br><br/>
-* **Real-Time Telemetry:** In the synchronous sessions, I built in "air time" and live knowledge checks (via polling questions). This acted as system telemetry, allowing the instructor to provide "just-in-time" enablement if a cohort struggled with a compliance concept.
+* **Real-Time Telemetry:** In the synchronous sessions, I built in "air time" and live knowledge checks. This acted as system telemetry, allowing the instructor to provide "just-in-time" enablement if a cohort struggled with a compliance concept.
 <br><br/>
 ![E-Learning TOC and Visual Progression Markers](./assets/your-toc-screenshot.png)
 <br><br/>
