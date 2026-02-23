@@ -2,7 +2,7 @@
 
 ---
 
-# 📊 Scaling EBP Audit Capability: A Global Enablement Pipeline
+# 📊 Scaling EBP Audit Capability: A Case Study in Scaling Human Performance across Globally Distributed Teams
 ## 🚀 Overview & The Challenge
 The firm required a scalable learning solution to expand its Employee Benefit Plan (EBP) audit practice. EBP audits are highly technical compliance procedures designed to protect corporate retirement and health programs from mismanagement.
 <br><br/>
