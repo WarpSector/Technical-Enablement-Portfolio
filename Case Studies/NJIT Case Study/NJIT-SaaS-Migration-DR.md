@@ -71,8 +71,8 @@ Culminated in the successful, 100% adoption of Canvas as the new enterprise LMS,
 ### Award-Winning Incident Response
 For our team's critical work in leading the technical and operational transition during the pandemic, we were honored with the **"Overseers Excellence in Service Award"** during the 2020 University Convocation.
 
-#### *2020 NJIT Virtual Convocation (Skip to timestamp 28:25 for the Board of Overseers Excellence Awards)*
-[🔗 Watch the Convocation Award Video Here](Insert-Video-Link-Here)
+#### *2020 NJIT Virtual Convocation (Skip to timestamp 29:00 for the Board of Overseers Excellence Awards)*
+<a href="https://youtu.be/70g71c0Ml-g?si=mQWHo2y_mYFhk9tZ&t=1740"><img src="../Case Study Assets/17-NJIT-OSEA.png" width="60%" alt="Watch the 2020 NJIT Virtual Convocation"></a>
 <br><br/>
 <br><br/>
 ## 🤖 Tooling & AI Transparency
