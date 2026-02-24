@@ -186,7 +186,7 @@ I executed a bifurcated deployment strategy to ensure a zero-defect rollout: a Q
 * **Infrastructure Provisioning:** Partnered with local IT to configure physical training nodes in India, and provisioned the Zoom infrastructure (pre-loading polling telemetry, configuring breakout routing) for the U.S. cohorts.
 <br><br/>
 ### Live Production: Systems Management
-During the VILT deployments, I shifted to **Technical Producer and Moderator**. I managed the backend Zoom environment, drove the slide UI, routed learners into breakout nodes, and launched + monitored real-time polling to capture real-time learner telemetry.
+During the VILT deployments, I shifted to **Technical Producer and Moderator**. I managed the backend Zoom environment, drove the slide UI, routed learners into breakout nodes, and launched + monitored real-time polling to capture learner telemetry.
 <br><br/>
 <br><br/>
 
