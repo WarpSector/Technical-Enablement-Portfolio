@@ -36,9 +36,9 @@ Over several months, I partnered with one other Instructional Designer to manual
 <br><br/>
 ### Enablement Roadmap
 Anticipating the need for scalable onboarding, I designed and deployed self-paced enablement tutorials for both faculty (creators) and students (end-users). This self-serve documentation acted as a critical buffer, drastically reducing support tickets during the transition.
-#### *Pre-Deployed Enablement Artifacts (Self-Paced Tutorials)*
-![Faculty Tutorial Course Card](../Case%20Study%20Assets/faculty-tutorial-card.png)
-![Student Tutorial Course Card](../Case%20Study%20Assets/student-tutorial-card.png)
+#### *Pre-Deployed Enablement Artifacts (Self-Paced Tutorial Course Cards as seen in Canvas LMS)*
+![Faculty Tutorial Course Card](../Case%20Study%20Assets/15-NJIT-FacO.png)
+![Student Tutorial Course Card](../Case%20Study%20Assets/16-NJIT-StudentO.png)
 <br><br/>
 <br><br/>
 
