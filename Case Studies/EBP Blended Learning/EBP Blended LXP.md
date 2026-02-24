@@ -136,18 +136,18 @@ I executed a bifurcated deployment strategy to ensure a zero-defect rollout: a Q
 * **Infrastructure Provisioning:** Partnered with local IT to configure physical training nodes in India, and provisioned the Zoom infrastructure (pre-loading polling telemetry, configuring breakout routing) for the U.S. cohorts.
 <br><br/>
 ### Live Production: Systems Management
-During the VILT deployments, I shifted to **Technical Producer and Moderator**. I managed the backend Zoom environment, drove the slide UI, routed learners into breakout nodes, and monitored real-time polling to capture cohort telemetry.
+During the VILT deployments, I shifted to **Technical Producer and Moderator**. I managed the backend Zoom environment, drove the slide UI, routed learners into breakout nodes, and launched + monitored real-time polling to capture real-time learner telemetry.
 <br><br/>
 <br><br/>
 
 ## 📈 Phase 5: Evaluation & Performance Telemetry
-Post-deployment, I established a continuous feedback loop to measure system health, learner adoption, and business impact.
+Post-deployment, I established a continuous feedback loop to measure learner adoption and business impact.
 <br><br/>
-* **Level 1 (System Health & UX):** Automated diagnostic surveys (Likert scale and open-ended) were launched immediately upon conclusion of the modules. This strictly complied with NASBA CPE requirements while capturing UI/UX friction data.
+* **Level 1 (System Check):** Diagnostic surveys (Likert scale and open-ended) were launched immediately upon conclusion of the modules. This strictly complied with NASBA CPE requirements while capturing fresh learner feedback.
 <br><br/>
-* **Level 2 (Delta Validation):** Partnered with L&D Operations to deploy a 60-day post-deployment "transfer of learning" assessment, validating that the complex ERISA compliance schemas successfully transferred to long-term memory.
+* **Level 2 (Learner Adoption):** Partnered with L&D Operations to deploy a 60-day post-session "transfer of learning" assessment, validating that the complex auditing methodologies successfully transferred to long-term memory.
 <br><br/>
-* **Level 3 (Velocity & Workflow Integration):** Proposed operational KPIs to track in-the-field execution, including the volume of audits completed, complexity tier, and time-to-completion (velocity), cross-referenced with Audit Manager interviews.
+* **Level 3 (Velocity & Workflow Integration):** Proposed operational KPIs to track in-the-field execution, including the volume of audits completed, complexity tier, and time-to-completion (velocity).
 <br><br/>
 * **Level 4 (Strategic ROI):** Defined baseline metrics to compare pre- and post-deployment audit execution data, mapping the enablement program directly to the firm's strategic goal of scaling the EBP practice and driving net-new revenue.
 <br><br/>
