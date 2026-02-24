@@ -3,6 +3,56 @@
 ---
 
 # 📊 Architecting EBP Audit Capability: A Case Study in Scaling Human Performance across Globally Distributed Teams
+## 🌐 Executive Summary & Ecosystem Context
+### The Bottom Line
+I architected and deployed a multi-modal enablement pipeline that successfully upskilled 130 global assurance professionals, generated 1,820 NASBA CPE credits, and maintained 100% regulatory compliance—effectively removing a critical knowledge bottleneck and driving net-new revenue for the firm's EBP audit practice.
+<br><br/>
+### The EBP Enablement Curriculum Sequence and Architecture
+This specific case study focuses on the design and deployment of the **EBP Basics & Fundamentals** sequence. As the Lead Designer for the entire EBP enablement ecosystem, I built this specific sequence to act as the foundational "boot sequence" of a multi-year learner lifecycle:
+* **Year 1 (The Boot Sequence):** *EBP Basics (Solo e-learning)* + *EBP Fundamentals (VILT/ILT)*. Prepares net-new and junior auditors for their first busy season in the field. **[👉 This Case Study]**
+<br><br/>
+* **Year 2 (The Upgrade):** *EBP Intermediate*. Deployed after a cohort completes their first busy season to introduce advanced edge-case testing.
+<br><br/>
+* **Year 3+ (Continuous Deployment):** *EBP Update*. Annual compliance patches to keep senior practitioners aligned with new AICPA regulations.
+<br><br/>
+* **In-the-Flow *Minimum Viable Instruction* (70% Layer):** Continuous deployment of microlearnings and job aids to reduce friction in the field (e.g., shipping a targeted microlearning to translate Indian Retirement Schemas to U.S. structures for our global cohorts).
+<br><br/>
+### Visual Workflow of The EBP Enablement Pipeline
+```mermaid
+graph LR
+    %% Styles matching the Enablement Methodology
+    classDef highlight fill:#e6f7ff,stroke:#1890ff,stroke-width:4px,color:#000,rx:10,ry:10,text-align:center
+    classDef standard fill:#f0f5ff,stroke:#6f42c1,stroke-width:2px,color:#000,rx:10,ry:10,text-align:center
+    classDef field fill:#fff7e6,stroke:#fa8c16,stroke-width:2px,color:#000,rx:10,ry:10,text-align:center
+    classDef mvi fill:#f6ffed,stroke:#52c41a,stroke-width:2px,color:#000,stroke-dasharray: 5 5,rx:10,ry:10,text-align:center
+
+    %% Formal Event Nodes (The 10% Layer)
+    Y1["<b>Year 1: The Boot Sequence</b><br/><hr/>EBP Basics (Solo)<br/>+ EBP Fundamentals (Live)<br/><i>👉 This Case Study</i>"]:::highlight
+    Y2["<b>Year 2: The Upgrade</b><br/><hr/>EBP Intermediate<br/>(Advanced Edge Cases)"]:::standard
+    Y3["<b>Year 3+: Continuous Rollout</b><br/><hr/>EBP Update<br/>(Annual Compliance Patches)"]:::standard
+
+    %% Field Execution Nodes (The 70% Experiential Layer)
+    BS1(("<b>Busy Season 1</b><br/>Field Execution")):::field
+    BS2(("<b>Busy Season 2</b><br/>Field Execution")):::field
+
+    %% Continuous Support Layer (MVI)
+    MVI["<b>Continuous MVI Layer (In-the-Flow Support)</b><br/><hr/>Just-in-Time Job Aids & Microlearnings<br/><i>e.g., Indian vs. U.S. Retirement Schema Translation</i>"]:::mvi
+
+    %% The Pipeline Flow
+    Y1 ==>|Deploys to| BS1
+    BS1 ==>|Returns for| Y2
+    Y2 ==>|Deploys to| BS2
+    BS2 ==>|Returns for| Y3
+
+    %% MVI Integration (Dashed lines to show continuous underpinning)
+    MVI -.->|Reduces friction during| Y1
+    MVI -.->|Reduces friction during| BS1
+    MVI -.->|Reduces friction during| Y2
+    MVI -.->|Reduces friction during| BS2
+    MVI -.->|Reduces friction during| Y3
+```
+<br><br/>
+<br><br/>
 ## 🚀 Overview & The Challenge
 The firm required a scalable learning solution to expand its Employee Benefit Plan (EBP) audit practice. EBP audits are highly technical compliance procedures designed to protect corporate retirement and health programs from mismanagement.
 <br><br/>
@@ -159,6 +209,10 @@ The EBP Enablement Architecture successfully removed the internal knowledge bott
 * **130 Assurance Professionals** successfully upskilled globally.
 * **1,820 NASBA CPE Credits** generated for the practice.
 * **100% Regulatory Governance** maintained across NASBA and AICPA standards.
+<br><br/>
+<br><br/>
+## 🤖 Tooling & AI Transparency
+The instructional strategy, gap analysis, and deployment of this EBP ecosystem are my original work. To build this documentation repository, I utilized AI as a pair-programmer to refine the technical copywriting, QA the Markdown syntax, and generate the boilerplate Mermaid.js architecture diagrams.
 
 ---
 
