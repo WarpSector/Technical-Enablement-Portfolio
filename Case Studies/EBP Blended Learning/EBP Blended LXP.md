@@ -106,16 +106,17 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 ### 3. HOW (Sandboxed (Breakout) Execution & Maximizing Germane Load)
 * **The Sandbox Environment:** The hands-on case studies were the "star of the show." SMEs developed mock workpapers that mirrored the exact participant transaction testing the auditors would perform in the live environment.
 <br><br/>
-* **Distributed Compute Nodes (Breakouts):** Learners were placed into virtual breakout rooms for 40-minute sprints. Instructors floated between breakout rooms to unblock teams, mimicking the dynamic of a Senior Auditor guiding a Junior Associate in the field.
+* **Distributed Nodes (Breakouts):** Learners were placed into virtual breakout rooms (or into groups in the ILT) for 30-40 minute sprints. Instructors floated between breakout rooms and groups to unblock teams, mimicking the dynamic of a Senior Auditor guiding a Junior Associate in the field.
 <br><br/>
-![Mock EBP Workpapers and Case Study Instructions](./assets/your-workpapers-screenshot.png)
+#### *Case Study Markers, Instructions, and Mock Workpapers were Engineered to Simulate Actual Field Activities for Learners to Practice On*
+![Mock EBP Workpapers and Case Study Instructions](../Case%20Study%20Assets/12-EBP-VILTCS-02.png)
+![Mock EBP Workpapers and Case Study Instructions](../Case%20Study%20Assets/13-EBP-VILTCS-03.png)
+![Mock EBP Workpapers and Case Study Instructions](../Case%20Study%20Assets/14-EBP-VILTCS-04.png)
 <br><br/>
 ### 4. WHAT-IF (Production Readiness & Performance Telemetry)
 * **Technical Debriefs:** Following the case studies, structured debrief sessions provided immediate output validation and allowed learners to think through potential edge cases with SMEs.
 <br><br/>
 * **Performance Telemetry:** To meet NASBA QAS and to reinforce retention at the end of the solo e-learning, a course exam assessed performance and supported knowledge/data transfer.
-<br><br/>
-![VILT Debrief Agenda and Answer Key Review](./assets/your-debrief-screenshot.png)
 <br><br/>
 <br><br/>
 
@@ -136,8 +137,6 @@ I executed a bifurcated deployment strategy to ensure a zero-defect rollout: a Q
 <br><br/>
 ### Live Production: Systems Management
 During the VILT deployments, I shifted to **Technical Producer and Moderator**. I managed the backend Zoom environment, drove the slide UI, routed learners into breakout nodes, and monitored real-time polling to capture cohort telemetry.
-<br><br/>
-![Enablement Runbooks for SMEs](./assets/your-t3-screenshot.png)
 <br><br/>
 <br><br/>
 
