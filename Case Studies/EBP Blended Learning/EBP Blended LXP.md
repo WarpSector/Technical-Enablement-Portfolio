@@ -104,9 +104,10 @@ With the gap analysis and instructional strategy locked in, I continued partneri
 Rather than building content first, I applied **backwards design** to reverse-engineer the exact workflows auditors would perform in the field. I defined the required outputs (**Performance Objectives**) and mapped them to the specific in-course knowledge inputs (**Enabling Objectives**) required to achieve them. This created a highly structured, measurable blueprint for the entire pipeline.
 <br><br/>
 #### *Performance Objectives: The Output Learners will be Capable of Executing at the End of the Session mapped to Enabling Objectives: Instructional Inputs Enabling Learners to Achieve Performance Objectives*
-![System Blueprint: Mapping Enabling Inputs to Performance Outputs](../Case%20Study%20Assets/01-EBP-Objectives.png)
+<div align="center"><img src="../Case Study Assets/01-EBP-Objectives.png" width="90%" alt="System Blueprint: Mapping Enabling Inputs to Performance Outputs"></div>
 <br><br/>
-### Mapping the Learner's Journey (Applying the 4-MAT Framework):
+
+### Mapping the Learner's Journey (Applying the 4-MAT Framework)
 To safely ramp learners up to progressively complex concepts without triggering cognitive overload, I structured the learning sequence applying the **4-MAT** framework:
 * **WHY (Context):** Establishing the connection between the learner and the material.
 <br><br/>
@@ -133,10 +134,11 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
 * **Gamified Schema Activation:** For the live VILT/ILT sessions, I architected a Jeopardy-style gamification board to break down social friction for group work and reinforce baseline knowledge from the prerequisite e-learning.
 <br><br/>
 #### *Gamification via Jeopardy Scoreboard: Reinforce Baseline Knowledge + Break Down Barriers to Learning + Reduce Social Friction for Group Dynamics*
-![Jeopardy Gamification Board](../Case%20Study%20Assets/02-EBP-Jeopardy-01.png)
-![Jeopardy Gamification Clue](../Case%20Study%20Assets/03-EBP-Jeopardy-02.png)
-![Jeopardy Gamification Answer](../Case%20Study%20Assets/04-EBP-Jeopardy-03.png)
+<div align="center"><img src="../Case Study Assets/02-EBP-Jeopardy-01.png" width="70%" alt="Jeopardy Gamification Board"></div>
+<div align="center"><img src="../Case Study Assets/03-EBP-Jeopardy-02.png" width="70%" alt="Jeopardy Gamification Clue"></div>
+<div align="center"><img src="../Case Study Assets/04-EBP-Jeopardy-03.png" width="70%" alt="Jeopardy Gamification Answer"></div>
 <br><br/>
+
 ### 2. WHAT (Data Transfer & Throttling Intrinsic Load)
 * **Content Virtualization:** I procured raw data from the Department of Labor (DOL), internal firm resources, SMEs, and leveraging AI (Copilot) to accelerate the outlining of discrete concept/data chunks, which were then technically validated by the SMEs.
 <br><br/>
@@ -146,23 +148,27 @@ Using the 4-MAT framework as the *macro-architecture* and Cognitive Load Theory 
   * These acted as system telemetry, allowing the learner to immediately implement feedback during the solo e-learning and the instructor to provide "just-in-time" enablement if a cohort struggled with a concept or skill during the VILT/ILT.
 <br><br/>
 #### *Real-Time Telemetry in the Solo e-Learning (Knowledge Checks/Formative Assessment with Real-Time Feedback)*
-![E-Learning Knowledge Check Matching Terms Activity](../Case%20Study%20Assets/05-EBP-QASKC-01.png)
-![E-Learning Knowledge Check Evaluative Feedback](../Case%20Study%20Assets/06-EBP-QASKC-02.png)
-#### *Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)*
-![VILT/ILT Class Discussion Prompt Engineering](../Case%20Study%20Assets/07-EBP-VILTKC-01.png)
-![ILT Peer-to-Peer Learning Flip Chart Activity](../Case%20Study%20Assets/09-EBP-VILTKC-03.png)
-![VILT Knowledge Check and NASBA Compliant Polling Question](../Case%20Study%20Assets/10-EBP-VILTKC-04.png)
+<div align="center"><img src="../Case Study Assets/05-EBP-QASKC-01.png" width="80%" alt="E-Learning Knowledge Check Matching Terms Activity"></div>
+<div align="center"><img src="../Case Study Assets/06-EBP-QASKC-02.png" width="80%" alt="E-Learning Knowledge Check Evaluative Feedback"></div>
 <br><br/>
+
+#### *Real-Time Telemetry in the VILT/ILT Sessions (Class Discussions, Group Activities, Knowledge checks)*
+<div align="center"><img src="../Case Study Assets/07-EBP-VILTKC-01.png" width="70%" alt="ILT Class Discussion Prompt Engineering"></div>
+<div align="center"><img src="../Case Study Assets/09-EBP-VILTKC-03.png" width="70%" alt="Peer-to-Peer Learning Flip Chart Activity"></div>
+<div align="center"><img src="../Case Study Assets/10-EBP-VILTKC-04.png" width="70%" alt="VILT Knowledge Check and NASBA Compliant Polling Question"></div>
+<br><br/>
+
 ### 3. HOW (Sandboxed (Breakout) Execution & Maximizing Germane Load)
 * **The Sandbox Environment:** The hands-on case studies were the "star of the show." SMEs developed mock workpapers that mirrored the exact participant transaction testing the auditors would perform in the live environment.
 <br><br/>
 * **Distributed Nodes (Breakouts):** Learners were placed into virtual breakout rooms (or into groups in the ILT) for 30-40 minute sprints. Instructors floated between breakout rooms and groups to unblock teams, mimicking the dynamic of a Senior Auditor guiding a Junior Associate in the field.
 <br><br/>
 #### *Case Study Markers, Instructions, and Mock Workpapers were Engineered to Simulate Actual Field Activities for Learners to Practice On*
-![Mock EBP Workpapers and Case Study Instructions](../Case%20Study%20Assets/12-EBP-VILTCS-02.png)
-![Mock EBP Workpapers and Case Study Workbook Tbab-by-Tab Approach](../Case%20Study%20Assets/13-EBP-VILTCS-03.png)
-![Mock EBP Workpapers and Case Study Mock Workpaper](../Case%20Study%20Assets/14-EBP-VILTCS-04.png)
+<div align="center"><img src="../Case Study Assets/12-EBP-VILTCS-02.png" width="70%" alt="Mock EBP Workpapers and Case Study Instructions"></div>
+<div align="center"><img src="../Case Study Assets/13-EBP-VILTCS-03.png" width="70%" alt="Mock EBP Workpapers and Case Study Workbook Tab-by-Tab Approach"></div>
+<div align="center"><img src="../Case Study Assets/14-EBP-VILTCS-04.png" width="70%" alt="Mock EBP Workpapers and Case Study Mock Workpaper"></div>
 <br><br/>
+
 ### 4. WHAT-IF (Production Readiness & Performance Telemetry)
 * **Technical Debriefs:** Following the case studies, structured debrief sessions provided immediate output validation and allowed learners to think through potential edge cases with SMEs.
 <br><br/>
@@ -216,4 +222,4 @@ The instructional strategy, gap analysis, and deployment of this EBP ecosystem a
 
 ---
 
-* [⬅️ Return to my Main Portfolio](https://www.amalrshah.com/home)
+[⬅️ Return to my Main Portfolio](https://www.amalrshah.com/home)
