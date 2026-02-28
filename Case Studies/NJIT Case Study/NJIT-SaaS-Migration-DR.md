@@ -28,7 +28,7 @@ Towards the end of our phased rollout, the sudden onset of the COVID-19 pandemic
 ## 🏗️ Phase 1: Pre-Incident Architecture & Proactive Migration
 As the LMS Pilot Lead, my approach was rooted in a methodical, data-driven migration strategy. Long before the crisis hit, my focus was on User Acceptance Testing (UAT) and building a scalable foundation.
 <br><br/>
-### Data-Driven Architecture Selection
+### Data-Driven Selection
 I researched and analyzed market share data, adoption velocity, and System Usability Scale (SUS) scores across higher-education institutions to build a strong, evidence-based business case for the transition to Canvas.
 <br><br/>
 ### Proactive Data Migration
@@ -36,9 +36,54 @@ Over several months, I partnered with one other Instructional Designer to manual
 <br><br/>
 ### Enablement Roadmap
 Anticipating the need for scalable onboarding, I designed and deployed self-paced enablement tutorials for both faculty (creators) and students (end-users). This self-serve documentation acted as a critical buffer, drastically reducing support tickets during the transition.
-#### *Pre-Deployed Enablement Artifacts (Self-Paced Tutorial Course Cards as seen in Canvas LMS)*
 <br><br/>
-<div align="center"><img src="../Case Study Assets/15-NJIT-FacO.png" width="25%" alt="Faculty Tutorial Course Card"> &nbsp;&nbsp; <img src="../Case Study Assets/16-NJIT-StudentO.png" width="25%" alt="Student Tutorial Course Card"></div>
+```mermaid
+
+graph TD
+    subgraph Phase_1 ["Phase 1: Instructional Architecture + Asset Curation"]
+        Vendor[Procure Live Canvas Docs & VODs] --> CLT[Apply Cognitive Load Theory<br/>Content Chunking & Contextual Guidance]
+        CLT --> LMS[Architect Targeted LMS Modules<br/>Curated Pathways vs. Link Farms]
+        LMS --> Fac[Faculty Enablement Pathway]
+        LMS --> Stu[Student Enablement Pathway]
+    end
+
+    subgraph Phase_2 ["Phase 2: Live Delivery"]
+        Fac --> Web[Core Canvas Webinars<br/>Modules, Files, Assessments, Gradebook]
+        Fac --> Proc[Proctoring Web Series<br/>Respondus & ProctorU]
+    end
+
+    subgraph Phase_3 ["Phase 3: Capture/Process"]
+        Web --> Rec[Record & Transcribe via Kaltura]
+        Proc --> Rec
+        Micro[Create Micro-Learning<br/>Quick Video Tutorials] --> Rec
+    end
+
+    subgraph Phase_4 ["Phase 4: The Closed Loop"]
+        Rec --> Update[Inject New Assets into LMS Modules<br/>Maintain Context & Flow]
+        Update --> Notify[Broadcast Update Notifications<br/>to Faculty & Students]
+    end
+
+    %% The Continuous Feedback Loop
+    Notify -.-> |Pipeline feeds back into the Foundation| LMS
+
+    %% Styling to make it pop
+    style Vendor fill:#eee,stroke:#333,color:#000
+    style CLT fill:#e1bee7,stroke:#8e24aa,stroke-width:2px,color:#000
+    style LMS fill:#bbf,stroke:#333,stroke-width:2px,color:#000
+    style Fac fill:#e1f5fe,stroke:#0288d1,color:#000
+    style Stu fill:#e1f5fe,stroke:#0288d1,color:#000
+    style Web fill:#f96,stroke:#333,color:#000
+    style Proc fill:#f96,stroke:#333,color:#000
+    style Rec fill:#eeeeee,stroke:#333,color:#000
+    style Micro fill:#eeeeee,stroke:#333,color:#000
+    style Update fill:#d4edda,stroke:#28a745,stroke-width:2px,color:#000
+    style Notify fill:#d4edda,stroke:#28a745,stroke-width:2px,color:#000
+```
+*A core principle of this pipeline was avoiding the "link farm" anti-pattern. Because the vendor (Canvas) constantly updated their documentation, I utilized their live links as the ultimate source of truth. However, I wrapped these assets in customized instructional guidance and applied Cognitive Load Theory (CLT) to chunk the modules. This ensured the population had the exact context they needed to absorb the technical material without being overwhelmed.*
+<br><br/>
+#### Pre-Deployed Enablement Artifacts (Self-Paced Tutorial Course Cards as seen in Canvas LMS)
+<br><br/>
+<div align="center"><img src="../Case Study Assets/15-NJIT-FacO.png" width="30%" alt="Faculty Tutorial Course Card"> &nbsp;&nbsp; <img src="../Case Study Assets/16-NJIT-StudentO.png" width="30%" alt="Student Tutorial Course Card"></div>
 <br><br/>
 <br><br/>
 
